@@ -110,7 +110,7 @@ author:
   name             : "설 연수"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "java/javascript"
-  location         : "seoul"
+  location         : "Seoul"
   email            : "seolnavy@naver.com"
   links:
     - label: "Email"
