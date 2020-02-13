@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "설 연수"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "JAVA개발자입니다."
+  bio              : "java/javascript"
   location         : "seoul"
   email            : "seolnavy@naver.com"
   links:
