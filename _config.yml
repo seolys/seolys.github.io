@@ -110,7 +110,7 @@ author:
   name             : "설 연수"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "JAVA개발자입니다."
-  location         : "Seoul
+  location         : "seoul"
   email            : "seolnavy@naver.com"
   links:
     - label: "Email"
@@ -291,5 +291,5 @@ defaults:
       author_profile: true
       read_time: true
       comments: # true
-      share: false
+      share: true
       related: true
