@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+
+<head>
+</head>
+
+<body>
+    <script src="./build.js"></script>
+    <script>
+        // search.searchBy: 검색조건 [0: 제목+내용, 1: 제목만]
+        window.location.href = 'https://cafe.naver.com/ArticleSearchList.nhn?search.clubid=' + getQueryString('clubid') + '&search.query=' + encodeCP949(getQueryString('q')) + "&search.searchBy=0";
+    </script>
+</body>
+
+</html>
